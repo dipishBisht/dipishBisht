@@ -7,7 +7,7 @@ Full Stack Web Developer | Creative Problem Solver
 Building responsive and user-friendly web applications with a passion for clean code and innovative design. I'm always exploring new technologies and frameworks to enhance user experiences. Open to collaboration and eager to tackle challenging projects—let's connect!
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [this link]([http://pasteYourUrlHere](https://portfolio-website-flame-ten.vercel.app/))
+* 🖥️  See my [portfolio]([http://pasteYourUrlHere](https://portfolio-website-flame-ten.vercel.app/))
 * ✉️  You can contact me at [dipsh1718@gmail.com](mailto:dipsh1718@gmail.com)
 * 🚀  I'm currently working on [this website revamp](http://skillsyard.com)
 * 🧠  I'm learning NEXT JS and DSA
