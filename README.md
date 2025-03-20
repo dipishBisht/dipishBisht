@@ -10,7 +10,7 @@ Building responsive and user-friendly web applications with a passion for clean 
 * 🖥️  See my [portfolio](https://portfolio-website-flame-ten.vercel.app/)
 * ✉️  You can contact me at [dipsh1718@gmail.com](mailto:dipsh1718@gmail.com)
 * 🚀  I'm currently working on [this website revamp](http://skillsyard.com)
-* 🧠  I'm learning NEXT JS and DSA
+* 🧠  I'm learning NEXT JS, NEST JS and DSA
 * 🤝  I'm open to collaborating on real problem-based projects, innovative solutions for everyday challenges, and impactful web applications.
 * ⚡  Additionally, I’m interested in: leveraging technology to solve real-world problems, and contributing to projects that make a tangible impact.
 
